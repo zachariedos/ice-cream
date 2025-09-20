@@ -13,7 +13,7 @@ html, body {
 }
 
 body {
-  background: linear-gradient(180deg, var(--bg), #e8f0ff 60%);
+  background: linear-gradient(180deg, var(--bg), #3f73d4 60%);
   display: grid;
   place-items: center;
   padding: 2rem;
